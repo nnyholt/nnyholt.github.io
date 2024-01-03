@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="Niels_Nyholt.jpg">
+<img class="profile-picture" src="nn.jpg">
 
 ## Research Interest
 
