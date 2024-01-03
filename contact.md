@@ -3,19 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [nn@ps.au.dk](mailto:nn@ps.au.dk)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Bartholins Allé 7
 >
-> London
+> 8000 Aarhus C
 >
-> United Kingdom
+> Denmark
 
 ---
 
@@ -23,4 +21,3 @@ is_contact: true
 
 1. [Facebook](#)
 2. [Twitter](#)
-3. [Google+](#)
