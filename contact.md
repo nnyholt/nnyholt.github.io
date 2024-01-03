@@ -19,5 +19,4 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
+1. [Twitter](https://twitter.com/NNyholt)

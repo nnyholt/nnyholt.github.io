@@ -18,7 +18,9 @@ sass:
 nav:
  - name: "Research"
    link: "research"
+ - name: "Teaching"
+   link: "teaching"
  - name: "CV"
-   link: "cv"
+   link: ""
  - name: "Contact"
    link: "contact"

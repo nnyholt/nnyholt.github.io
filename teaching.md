@@ -1,6 +1,6 @@
 ---
 layout: default
-is_research: true
+is_teaching: true
 ---
 Under construction...
 ---
