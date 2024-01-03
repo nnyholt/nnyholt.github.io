@@ -3,7 +3,7 @@ url: "https://nnyholt.github.io"
 baseurl: 
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -17,8 +17,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: ""
  - name: "Contact"
    link: "contact"
