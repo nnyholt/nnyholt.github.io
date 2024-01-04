@@ -6,6 +6,8 @@ is_contact: true
 
 ## Mailing Address
 
+> [Office 120 - 1341](https://www.au.dk/om/organisation/find-au/bygningskort?b=1341)
+> 
 > Bartholins Allé 7
 >
 > 8000 Aarhus C
