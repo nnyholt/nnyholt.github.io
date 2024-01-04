@@ -21,5 +21,5 @@ is_contact: true
 > ORCID: [0000-0002-8220-5215](https://orcid.org/0000-0002-8220-5215)
 >
 > Google Scholar: [link](https://scholar.google.dk/citations?user=l2z1iU4AAAAJ&hl=da)
->
+
 ---
