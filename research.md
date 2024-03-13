@@ -16,7 +16,7 @@ Voters in rural and peripheral areas have increasingly turned away from mainstre
 
 # På Dansk
 ### [Kampen om land og by](https://djoefforlag.dk/products/partiledernes-kamp-om-midten)
-Med Ulrik Kjær & Kasper Møller Hansen
+Med Ulrik Kjær & Kasper Møller Hansen 
 *i Partiledernes kamp om midtentiledernes kamp om midten – Folketingsvalget 2022 (red. Kasper Møller Hansen & Rune Stubager)*
 
 ### [Politisk adfærd langt fra Slotsholmen](https://doi.org/10.7146/samfundsokonomen.v2023i1.135520)  
