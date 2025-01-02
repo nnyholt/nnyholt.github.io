@@ -54,7 +54,7 @@
     }
     .other-picture {
         position: static;
-        margin: 0px 0 0 15px;
+        margin: -10px 0 0 15px;
         float: none;
         p & {
             padding: 0;
@@ -65,6 +65,8 @@
                 display: block;
                 margin-left: auto;
                 margin-right: auto;
+                width: 80%;
+                height: 80%;
                 margin-top: 1px;
             }
         }
