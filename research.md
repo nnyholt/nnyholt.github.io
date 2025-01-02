@@ -7,7 +7,7 @@ With Martin Vinæs Larsen
 
 *Journal of Political Institutions and Political Economy*
 
-<img class="other-picture" src="images/fig4_w.pdf">
+<img class="other-picture" src="images/fig4_w.png">
 
 New apartment buildings offer potential relief from high housing costs, but they encounter significant local opposition. Using a vignette survey experiment, we explore why citizens oppose the construction of apartment buildings. We find limited evidence that this opposition stems from concerns over congestion or out-group bias. Citizens tend to oppose taller buildings irrespective of whether they attract more or undesirable residents. Instead, opposition to apartment buildings seems to be driven by local preservationism. Respondents do not think that tall buildings fit into their predominantly low-rise neighborhoods. To substantiate the importance of preservationism, we zoom in on projects that were proposed near another apartment building. Here, respondents agree that apartment buildings fit in and they oppose them less. These results may help explain why cities sprawl rather than densify, and why it is difficult to build affordable housing in expensive cities.
 
