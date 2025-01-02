@@ -62,7 +62,7 @@
             padding: 0;
             margin: 0;
         }
-        @media (max-width: $small-width) {
+        @media (max-width: $max-width) {
             img {
                 display: block;
                 margin-left: auto;
