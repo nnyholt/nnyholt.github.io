@@ -18,7 +18,7 @@ is_contact: true
 
 > Email: [nn@ps.au.dk](mailto:nn@ps.au.dk)
 >
-> X: [@NNyholt](https://twitter.com/NNyholt)
+> Blusky: [nnyholt.bsky.social](https://bsky.app/profile/nnyholt.bsky.social)
 >
 > ORCID: [0000-0002-8220-5215](https://orcid.org/0000-0002-8220-5215)
 >

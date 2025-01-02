@@ -6,7 +6,7 @@ layout: default
 <img class="profile-picture" src="nn.jpg">
 
 
-I am a postdoctoral researcher at the Department of Political Science, Aarhus University. My main research interests lie at the intersection of geography and political behavior. In my [PhD](https://politica.dk/politicas-phd-serie/niels-nyholt), I investigated how people's experiences with changes in local political priorities and local appeals affect their political behavior. 
+I am an assistant professor at the Department of Political Science, Aarhus University. My main research interests lie at the intersection of geography and political behavior. In my [PhD](https://politica.dk/politicas-phd-serie/niels-nyholt), I investigated how people's experiences with changes in local political priorities and local appeals affect their political behavior. 
 
 Currently, I am involved in two separate projects, each of which focuses on how citizens' local environment affects their political behavior.
 
