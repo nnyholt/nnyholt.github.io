@@ -54,7 +54,8 @@
     }
     .other-picture {
         position: static;
-        margin: 0 0 0 0px;
+        margin-left: auto;
+        margin-right: auto;
         width: 70%;
         height: 70%;
         float: none;
@@ -65,8 +66,6 @@
         @media (max-width: $max-width) {
             img {
                 display: block;
-                margin-left: auto;
-                margin-right: auto;
                 margin-top: 1px;
             }
         }
