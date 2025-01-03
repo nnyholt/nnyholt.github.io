@@ -56,8 +56,6 @@
         position: static;
         margin-left: auto;
         margin-right: auto;
-        width: 70%;
-        height: 70%;
         float: none;
         p & {
             padding: 0;
@@ -67,6 +65,9 @@
             img {
                 display: block;
                 margin-top: 1px;
+                width: 70%;
+                height: 70%;
+        
             }
         }
     }
