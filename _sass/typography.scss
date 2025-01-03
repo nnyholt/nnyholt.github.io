@@ -54,8 +54,6 @@
     }
     .other-picture {
         position: static;
-        margin-left: auto;
-        margin-right: auto;
         float: none;
         p & {
             padding: 0;
@@ -69,6 +67,7 @@
         }
     }
     img {
+        vertical-align: middle;
         text-align: center;
         width: 70%;
         height: 70%;
