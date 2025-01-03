@@ -62,7 +62,9 @@
         @media (max-width: $max-width) {
             img {
                 display: block;
-                margin-top: 1px;
+                margin-right: auto;
+                margin-left: auto;
+            
                     }
         }
     }
