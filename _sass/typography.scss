@@ -57,14 +57,12 @@
         float: none;
         p & {
             padding: 0;
-            margin: 0;
         }
         @media (max-width: $max-width) {
             img {
                 display: block;
                 margin-right: auto;
                 margin-left: auto;
-            
                     }
         }
     }
